@@ -23,7 +23,7 @@ I am Lili Miao, a computational social science researcher who specializes in stu
 My research interests lie at the intersection of computational social science and the science of science. Specifically, I develop and utilize computational approaches to investigate the underlying universal patterns of scientific enterprise and the intricate interactions between science and society.
 
 
-My CV is available for [download here](https://raw.githubusercontent.com/qmzhangGit/qmzhangGit.github.io/main/_pages/CV_Zhang.pdf).
+My CV is available for [download here](https://raw.githubusercontent.com/LiliMiaohub/LiliMiaohub.github.io/main/_pages/LiliMiao-resume.pdf).
 
 # 📖 Educations
 - *08/2018–present*, Ph.D. Informatics, Indiana University, Bloomington, IN, USA.  
