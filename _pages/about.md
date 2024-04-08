@@ -57,11 +57,11 @@ Advisor: [Professor Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEA
 
 
 ### Working In Progress
- - A large-scale analysis of national scientific workforce. (Lead author; with Vincent Larivière, Cassidy R. Sugimoto, Yong-Yeol Ahn; Representative work).
+ - The scientific cost of nationalism: evidence from the Brexit experiment (Lead author; with Vincent Larivière, Cassidy R. Sugimoto, Yong-Yeol Ahn).
 
- - Scientific backbone of tehcnology. (Adavisor: Staša Milojevi´c).
+ - Knowledge production inequality in today's China. (Lead author; with Mengxue Zheng, Yi Bu).
 
- - Global situation awareness of science and technology capabilities. (Coauthor; with Filipi Nascimento Silva, Sadamori Kojaku, Yong-Yeol Ahn).
+ - Perpetual power imbalance in contemporary scientific international collaboration. (Lead author; with Byungkyu Lee, Vincent Larivière, Cassidy R. Sugimoto, Yong-Yeol Ahn).
 
 
 
@@ -78,14 +78,12 @@ Advisor: [Professor Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEA
 
  - Zaida Chinchilla-Rodrìguez, **Lili Miao**, Nicolàs obinson-Garcìa Dakota Murray, Rodrigo Costas, and Cassidy R. Sugimoto. A large-scale comparison of the position of countries in international collaboration and mobility according to their scientific capacities. Paris, France: STI2017, 2017.
 
-### Invited seminars
- - 10/14/2022, JiZhi center for Natural Science Research, China 
 
 
 # 🤝 Services
 
 ### Reviewer
- - PLoS ONE, Complexity, Technovation, ISSI: 2023
+ - Nature Human Behaviour, Quantitative Science Studies, Humanities and Social Sciences Communications, PLoS ONE, Complexity, Scientometrics, Technovation, ISSI: 2023, Chinese Journal of Sociology
 
 # 🎖 Awards and Fellowships
 - *2022* **Excellence in Research**, Luddy School of Informatics, Computing, and Engineering, 2021-2022
