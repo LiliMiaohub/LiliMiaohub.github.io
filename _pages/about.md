@@ -45,7 +45,7 @@ Advisor: [Professor Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEA
 ### Articles 
  - **Lili Miao**, Dakota Murray, Woo-Sung Jung, Vincent Larivière, Cassidy R. Sugimoto, and Yong-Yeol Ahn. “The latent structure of national scientific development”. In: Nature Human Behaviour 6 (2022), pp. 1206–1217.
 
- - **Lili Miao**, Vincent Larivière, Feifei Wang, Yong-Yeol Ahn, and Cassidy R. Sugimoto. “Cooperation and dependence in global science funding landscape”. (to be submitted soon, shareable upon request).
+ - **Lili Miao**, Vincent Larivière, Feifei Wang, Yong-Yeol Ahn, and Cassidy R. Sugimoto. “Cooperation and dependence in global science funding landscape”. (Submitted to Science Advancce). arXiv:2308.08630[econ.GN]
 
  - Zaida Chinchilla-Rodrìguez, **Lili Miao**, Nicolàs obinson-Garcìa Dakota Murray, Rodrigo Costas, and Cassidy R. Sugimoto. “A global comparison of scientific mobility and collaboration according to national scientific capacities”. In: Frontiers in research metrics and analytics 3 (2018), p. 17.
 
