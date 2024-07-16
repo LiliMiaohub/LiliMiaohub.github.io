@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. student in Informatics, Indiana University Bloomington.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-Lili.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey! I am a PhD student at [Indiana University](https://bloomington.iu.edu/) [School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/) (Luddy). My research investigates the interactions between science, technology, and society, focusing on three main threads: (i) the driving forces behind regional knowledge production capacity and how science and innovation can be leveraged to reduce regional economic inequality; (ii) the funding investment behind global science and the associated benefits and risks of foreign scientific investment; and (iii) how political events—such as Brexit and China's Belt and Road Initiative—have influenced national scientific development and global cooperation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a recipient of several awards, including the [Humane Studies Fellowship](https://www.theihs.org/funding-opportunities/humane-studies-fellowship/) and the Excellence in Research (2022) award from the Luddy School.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please visit my [projects page](/al-folio/projects/) or [Google scholar profile](https://scholar.google.com/citations?user=kjBstLsAAAAJ&hl=en) for the more details on my research.
