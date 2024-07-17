@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Podcasts
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I am a co-host of the Chinese podcast "Nothing to be Feared." Our goal is to accompany our listeners through sincere sharing. As our podcast advocates, we do not aim to understand many life principles; we simply wish to face each important moment without fearing love and not loving. We welcome everyone to follow us on the Xiaoyuzhou app.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
