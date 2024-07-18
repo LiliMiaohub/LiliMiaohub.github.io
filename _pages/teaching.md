@@ -11,7 +11,7 @@ nav_order: 3
   <li>INFO-I 101 (Assistant Instructor)</li>
   <li>INFO-I 101 online (Co-instructor)</li>
   <li>INFO-C 453 Computer and Informatics Ethics (Assistant Instructor)</li>
-  <li>INFO-I 502 Human-centered Research Methods in Informatics (Guest Lecture)</li>
+  <li>INFO-I 502 Human-centered Research Methods in Informatics (Guest Lecturer)</li>
 </ul>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
