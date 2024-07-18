@@ -20,4 +20,4 @@ Hey! I am a PhD student at [Indiana University](https://bloomington.iu.edu/) [Sc
 
 I am a recipient of several awards, including the [Humane Studies Fellowship](https://www.theihs.org/funding-opportunities/humane-studies-fellowship/) and the Excellence in Research (2022) award from the Luddy School.
 
-Please visit my [research page](/publications/) or [Google scholar profile](https://scholar.google.com/citations?user=kjBstLsAAAAJ&hl=en) for the more details on my research.
+For more details on my research, please visit my [research page](/publications/) or [Google scholar profile](https://scholar.google.com/citations?user=kjBstLsAAAAJ&hl=en).

@@ -1,13 +1,24 @@
 ---
 layout: page
-title: Podcasts
+title: Podcast
 permalink: /projects/
-description: I am a co-host of the Chinese podcast "Nothing to be Feared." Our goal is to accompany our listeners through sincere sharing. As our podcast advocates, we do not aim to understand many life principles; we simply wish to face each important moment without fearing love and not loving. We welcome everyone to follow us on the Xiaoyuzhou app.
+description:
 nav: true
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
+
 ---
+I am a co-host of the Chinese podcast "Nothing to be Feared" (不以畏然). We want to accompany our listeners through sincere sharing. As our podcast advocates, we do not aim to understand many life principles; we simply wish to face each important moment without fearing love and not loving.
+
+We welcome everyone to follow us on the Xiaoyuzhou app (小宇宙).
+
+**Released Episodes**
+- 07-17-2024 The Hidden Pain of Mothers
+- 07-10-2024 Superstition, Astrology, and the Science Behind Them
+- 07-03-2024 How Did We Navigate the Low Point After the Breakup
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
