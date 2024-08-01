@@ -14,9 +14,10 @@ I am a co-host of the Chinese podcast "Nothing to be Feared" (不以畏然). We 
 We welcome everyone to follow us on the Xiaoyuzhou app (小宇宙).
 
 **Released Episodes**
-- 07-17-2024 The Hidden Pain of Mothers
-- 07-10-2024 Superstition, Astrology, and the Science Behind Them
-- 07-03-2024 How Did We Navigate the Low Point After the Breakup
+- 07-31-2024 Respecting yourself is the treatment for overcoming Asian trauma.
+- 07-17-2024 The Hidden Pain of Mothers.
+- 07-10-2024 Superstition, Astrology, and the Science Behind Them.
+- 07-03-2024 How Did We Navigate the Low Point After the Breakup.
 
 
 
