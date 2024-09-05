@@ -14,6 +14,8 @@ I am a co-host of the Chinese podcast "Nothing to be Feared" (不以畏然). We 
 We welcome everyone to follow us on the Xiaoyuzhou app (小宇宙).
 
 **Released Episodes**
+- 08-29-2024 Olympic Memories: A New Narrative Under the Sunset Glow.
+- 08-15-2024 Life is not about living a whole lifetime but about living for those few moments.
 - 07-31-2024 Respecting yourself is the treatment for overcoming Asian trauma.
 - 07-17-2024 The Hidden Pain of Mothers.
 - 07-10-2024 Superstition, Astrology, and the Science Behind Them.
